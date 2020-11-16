@@ -13,3 +13,9 @@ zugreifen kann wie auf lokale Verzeichnisse.
 [Wikipedia-Beitrag zum Midnight
 Commander](http://de.wikipedia.org/wiki/Midnight_Commander)
 
+Bei Auswahl von Ncursesw als Widget library für den Midnight Commander  
+wird (Standardeinstellung) sind folgende Einstellungen für die Putty 
+Verbindung zu empfehlen:
+- Window -> Translation -> Enable VT100 line drawing even in UTF-8 Mode
+- Window -> Colours -> Indicate bolded text by changing -> The colour
+- Connection -> Data -> Terminal-type string: xterm-color
